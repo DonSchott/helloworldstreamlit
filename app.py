@@ -1,7 +1,8 @@
 # app.py
 
 #import the library
-import streamlit as stl
+import streamlit as st
 
 # add title to your app
-stl.title("Hello world!")
+st.title("Hello world!")
+st.write('That\'s my very first streamli web app!')
